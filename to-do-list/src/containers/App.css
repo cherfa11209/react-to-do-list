@@ -1,0 +1,58 @@
+body{
+  margin: 0%;
+  padding: 0%;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: repeat(10, 1fr);
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(187, 173, 173);
+}
+
+
+.card{
+  border: 5px double black;
+  width: 15em;
+  height: 15em;
+  text-align: center;
+  margin: auto;
+  background-color: lightgray;
+} 
+
+header{
+  width: 100vw;
+  border-bottom: 2px solid gray;
+  text-align: center;
+  font-family: fantasy;
+  font-size: xx-large;
+  font-weight: 200;
+  background-color: mediumslateblue;
+  color: pink;
+}
+
+input{
+  width: 15em;
+  text-align: center;
+  align-items: center;
+  margin-left: 45%;
+}
+
+footer{
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+  height: 2.5em; 
+  background-color: mediumslateblue;
+  border-top: 2px solid gray;
+  text-align: center;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: repeat(10,1fr);
+  height: 50em;
+  width: 115em;
+  border: 5px double black;
+  margin:auto; 
+}
