@@ -1,11 +1,11 @@
 import React from 'react'
-import Task from './Task.js'
 
-const Card = () => {
+
+const Card = ({task, time, date, onDelete}) => {
     return(
         <div className="card">
-            <Task />
-            <button>Delete</button>
+             <p>{task} {time} {date}</p>
+             <button onClick={() => onDelete(Card)} className="delete">X</button>
         </div>
     )
 }

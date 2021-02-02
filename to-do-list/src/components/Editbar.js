@@ -2,9 +2,9 @@ import React from 'react';
 
 const Editbar = () => {
     return (
-        <> 
-            <input type="text" placeholder="Add Task"></input>
-        </>
+        <div className="edit"> 
+            <input className="bar" type="text" placeholder="Add"></input><button className="add">+</button>
+        </div>
     )
 }
 
