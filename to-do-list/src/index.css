@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+.TaskCard{
+  width: 20vw;
+  height: 20vh;
+  text-align: center;
+  border: 2px solid black;
+  margin: auto;
+}
+
