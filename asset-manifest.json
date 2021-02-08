@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//cherfa11209.github.io/react-to-do-list/static/css/main.e872fe77.chunk.css",
+    "main.js": "//cherfa11209.github.io/react-to-do-list/static/js/main.8338f52f.chunk.js",
+    "main.js.map": "//cherfa11209.github.io/react-to-do-list/static/js/main.8338f52f.chunk.js.map",
+    "runtime-main.js": "//cherfa11209.github.io/react-to-do-list/static/js/runtime-main.56f47275.js",
+    "runtime-main.js.map": "//cherfa11209.github.io/react-to-do-list/static/js/runtime-main.56f47275.js.map",
+    "static/js/2.7b40ac91.chunk.js": "//cherfa11209.github.io/react-to-do-list/static/js/2.7b40ac91.chunk.js",
+    "static/js/2.7b40ac91.chunk.js.map": "//cherfa11209.github.io/react-to-do-list/static/js/2.7b40ac91.chunk.js.map",
+    "static/js/3.5089beca.chunk.js": "//cherfa11209.github.io/react-to-do-list/static/js/3.5089beca.chunk.js",
+    "static/js/3.5089beca.chunk.js.map": "//cherfa11209.github.io/react-to-do-list/static/js/3.5089beca.chunk.js.map",
+    "index.html": "//cherfa11209.github.io/react-to-do-list/index.html",
+    "static/css/main.e872fe77.chunk.css.map": "//cherfa11209.github.io/react-to-do-list/static/css/main.e872fe77.chunk.css.map",
+    "static/js/2.7b40ac91.chunk.js.LICENSE.txt": "//cherfa11209.github.io/react-to-do-list/static/js/2.7b40ac91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56f47275.js",
+    "static/js/2.7b40ac91.chunk.js",
+    "static/css/main.e872fe77.chunk.css",
+    "static/js/main.8338f52f.chunk.js"
+  ]
+}
