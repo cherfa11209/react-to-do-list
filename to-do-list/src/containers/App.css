@@ -1,10 +1,102 @@
-
-
-.TaskCard{
-  width: 20vw;
-  height: 20vh;
-  text-align: center;
-  border: 2px solid black;
-  margin: auto;
+body{
+  background-color: rgb(205, 199, 211);
 }
 
+.tasklist{
+  margin-top: 5%;
+  border: 3px double black;
+  border-top: none;
+  width: 80vw;
+  margin-left: 10%;
+  box-shadow: 5px 5px  gray;
+}
+
+.addbar{
+  margin-left: 10%;
+  margin-top: 10%;
+  border: 2px solid black;
+  width: 80vw;
+}
+
+.TaskCard{
+  width: 80vw;
+  height: 4vh;
+  border: 2px solid rgb(99, 99, 99);
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(235, 235, 235);
+}
+
+.delete-btn{
+  width: 10vw;
+  background-color: rgb(218, 118, 111);
+}
+
+h3{
+  margin: auto;
+  font-size: 0.75em;
+}
+
+input{
+  text-align: center;
+  border: none;
+  height: 2em;
+  width: 70vw;
+  border-bottom: 2px solid black;
+  border-right: 2px solid black;
+}
+
+header{
+  width: 100vw;
+  height: 5vh;
+  background-color: rgb(53, 50, 50);
+  border-top: 2px solid darkgray;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  font-size: 2em;
+}
+
+.add{
+  height: 2.2em;
+    width: 8vw;
+    border: none;
+    background-color: rgb(205, 199, 211);
+}
+
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+  height: 5vh;
+  background-color: rgb(53, 50, 50);
+  border-top: 2px solid darkgray;
+  display: flex;
+  justify-content: space-around;
+}
+
+img{
+  height: 3vh;
+}
+
+a{
+  margin-top: 1vh;
+  color: white;
+  text-decoration: none;
+}
+
+.check{
+  position: absolute;
+    left: -64px;
+    height: 1.5em;
+}
+
+.adder{
+  height: 4vh;
+}
+
+h1{
+  font-size: 0.5em;
+    margin: auto;
+}
